@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Packet Analyzer
 
 A Python-based packet analysis and automated validation framework for structured binary communication data.
@@ -22,6 +21,7 @@ The framework will provide:
 
 - Python
 - Pytest
+- Pytest HTML
 - Pandas
 - OpenPyXL
 - Git
@@ -54,6 +54,3 @@ CSV / Excel Report
      |
      v
 Pytest Automation
-=======
-# python-packet-analyzer
->>>>>>> 92fa5924960e80c72583f46266fb40acbc0663d5
